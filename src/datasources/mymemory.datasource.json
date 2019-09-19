@@ -1,0 +1,6 @@
+{
+  "name": "mymemory",
+  "connector": "memory",
+  "localStorage": "mymemory-key",
+  "file": "mydata.json"
+}

@@ -1,0 +1,11 @@
+{
+  "ids": {
+    "User": 45
+  },
+  "models": {
+    "User": {
+      "3": "{\"id\":3,\"username\":\"dremond\",\"password\":\"password\",\"firstname\":\"Dom\",\"lastname\":\"Emond\"}",
+      "44": "{\"id\":44,\"username\":\"magg13\",\"password\":\"secretpassword\",\"firstname\":\"Mag\",\"lastname\":\"Emond\"}"
+    }
+  }
+}
