@@ -67,7 +67,7 @@
   "devDependencies": {
     "passport-facebook": "^3.0.0",
     "@types/passport-facebook": "^2.1.9",
-    "@loopback/build": "^2.0.10",
+    "@loopback/build": "^9.0.6",
     "source-map-support": "^0.5.13",
     "@loopback/testlab": "^1.8.0",
     "@types/node": "^10.14.17",
